@@ -1,0 +1,1 @@
+A simple python application that takes an infinite amount of text as an input and returns basic statistics about the text: word count, sentence count, words count, objectivity & subjectivity through Spacy
